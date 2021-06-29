@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 300" style="enable-background:new 0 0 294.8 94.5;" xml:space="preserve">
+<style type="text/css">
+		.a{fill:gray;}
+		.b{fill:#fff;}
+</style>
+	<g id="charger" transform="translate(250, -5),scale(1.5) ">
+		<path class="a" d="M177.58,32.57V40.2a13.9,13.9,0,0,1-11.06,13.59v77.42a9.76,9.76,0,1,1-19.51,0V63.77a11,11,0,0,0-8.2-10.66V177h4.71a2.83,2.83,0,0,1,0,5.66H41.46a2.83,2.83,0,1,1,0-5.66h4.71V19.65A14.15,14.15,0,0,1,60.31,5.51h64.36a14.15,14.15,0,0,1,14.14,14.14V47.34a16.7,16.7,0,0,1,13.85,16.44v67.44a4.1,4.1,0,1,0,8.2,0V53.79A13.9,13.9,0,0,1,149.81,40.2V32.57a2.83,2.83,0,0,1,2.83-2.83h2.25V19.65a2.83,2.83,0,1,1,5.66,0v10.1h6.29V19.65a2.83,2.83,0,0,1,5.66,0v10.1h2.26A2.83,2.83,0,0,1,177.58,32.57Zm-5.66,7.62V35.4H155.47v4.8A8.23,8.23,0,0,0,171.92,40.2Z"/>
+		<g transform="translate(0, -34)">
+			<rect class="b" x="60.31" y="61.48" width="63.7" height="63.7" rx="31.85" ry="31.85" transform="translate(185.48 1.17) rotate(90)"/>
+			<path class="a" d="M105.08,103.26L96.71,94.5l8.39-8.82a3.75,3.75,0,0,0-5.44-5.17l-7.48,7.87-7.53-7.87a3.75,3.75,0,1,0-5.42,5.18l8.38,8.76-8.39,8.82a3.75,3.75,0,0,0,5.44,5.17l7.48-7.87,7.53,7.87A3.75,3.75,0,1,0,105.08,103.26Z"/>
+		</g>
+	</g>
+	
+	<script>
+		var isUp = true;
+		var charger = document.getElementById("charger");
+		var count = 0; 
+		var initialX = 250;
+		var initialY = -5;
+		var initialSizeFactor = 1.5;
+		setInterval(move, 50);
+		function move()
+		{ 
+			if (isUp){
+				++count;
+				if(count &lt; 20){
+					var translateVar = initialX-count*0.1;
+					var scaleVar = initialSizeFactor+count*0.002;
+					charger.setAttribute('transform', 'translate('+ translateVar +','+ initialY+'),scale('+ scaleVar +')');
+				}
+				else{
+					isUp = false;
+				}
+			}
+			else{
+				--count;
+				if(count &gt; 0){
+					var translateVar = initialX-count*0.1;
+					var scaleVar = initialSizeFactor+count*0.002;
+					charger.setAttribute('transform', 'translate('+ translateVar +','+ initialY+'),scale('+ scaleVar +')');
+				}
+				else{
+					isUp = true;
+				}
+			}
+		}
+	</script>
+</svg>

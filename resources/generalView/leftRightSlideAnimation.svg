@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 3000 175" style="enable-background:new 0 0 3000 175;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#666666;}
+</style>
+<g>
+	<g id="flow1" transform="translate(1000,0) scale(0.5,0.5)">
+		<g>
+			<g id="_x37__2_">
+				<g>
+					<path class="st0" d="M79,173.2L207.3,56.8c11.5-11.5,11.5-30.2,0-41.7c-11.5-11.5-30.2-11.5-41.7,0L16.3,150.5
+						c-6.2,6.2-9,14.5-8.5,22.7c-0.5,8.2,2.2,16.5,8.5,22.7l149.3,135.4c11.5,11.5,30.2,11.5,41.7,0c11.5-11.5,11.5-30.2,0-41.7
+						L79,173.2z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="flow2" transform="translate(1150,0) scale(0.5,0.5)">
+		<g>
+			<g id="_x37__1_">
+				<g>
+					<path class="st0" d="M79,175L207.3,58.6c11.5-11.5,11.5-30.2,0-41.7c-11.5-11.5-30.2-11.5-41.7,0L16.3,152.3
+						c-6.2,6.2-9,14.5-8.5,22.7c-0.5,8.2,2.2,16.5,8.5,22.7l149.3,135.4c11.5,11.5,30.2,11.5,41.7,0c11.5-11.5,11.5-30.2,0-41.7
+						L79,175z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="flow3" transform="translate(1300,0) scale(0.5,0.5)">
+		<g>
+			<g id="_x37__34_">
+				<g>
+					<path class="st0" d="M79,175L207.3,58.6c11.5-11.5,11.5-30.2,0-41.7c-11.5-11.5-30.2-11.5-41.7,0L16.3,152.3
+						c-6.2,6.2-9,14.5-8.5,22.7c-0.5,8.2,2.2,16.5,8.5,22.7l149.3,135.4c11.5,11.5,30.2,11.5,41.7,0c11.5-11.5,11.5-30.2,0-41.7
+						L79,175z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="flow4" transform="translate(1600,0) scale(0.5,0.5)">
+		<g>
+			<g id="_x37__3_">
+				<g>
+					<path class="st0" d="M141,175L12.7,291.4c-11.5,11.5-11.5,30.2,0,41.7c11.5,11.5,30.2,11.5,41.7,0l149.3-135.4
+						c6.2-6.2,9-14.5,8.5-22.7c0.5-8.2-2.2-16.5-8.5-22.7L54.4,16.9c-11.5-11.5-30.2-11.5-41.7,0S1.2,47,12.7,58.6L141,175z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="flow5" transform="translate(1750,0) scale(0.5,0.5)">
+		<g>
+			<g id="_x37__4_">
+				<g>
+					<path class="st0" d="M141,175L12.7,291.4c-11.5,11.5-11.5,30.2,0,41.7c11.5,11.5,30.2,11.5,41.7,0l149.3-135.4
+						c6.2-6.2,9-14.5,8.5-22.7c0.5-8.2-2.2-16.5-8.5-22.7L54.4,16.9c-11.5-11.5-30.2-11.5-41.7,0S1.2,47,12.7,58.6L141,175z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="flow6" transform="translate(1900,0) scale(0.5,0.5)">
+		<g>
+			<g id="_x37__5_">
+				<g>
+					<path class="st0" d="M141,175L12.7,291.4c-11.5,11.5-11.5,30.2,0,41.7c11.5,11.5,30.2,11.5,41.7,0l149.3-135.4
+						c6.2-6.2,9-14.5,8.5-22.7c0.5-8.2-2.2-16.5-8.5-22.7L54.4,16.9c-11.5-11.5-30.2-11.5-41.7,0S1.2,47,12.7,58.6L141,175z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<script>var opacity1 = 0;
+		var opacity2 = 0;
+		var opacity3 = 0;
+		var opacity4 = 0;
+		var opacity5 = 0;
+		var opacity6 = 0;
+		var flow1 = document.getElementById(&quot;flow1&quot;);
+		var flow2 = document.getElementById(&quot;flow2&quot;);
+		var flow3 = document.getElementById(&quot;flow3&quot;);
+		var flow4 = document.getElementById(&quot;flow4&quot;);
+		var flow5 = document.getElementById(&quot;flow5&quot;);
+		var flow6 = document.getElementById(&quot;flow6&quot;);
+		flow1.setAttribute(&apos;opacity&apos;, opacity1);
+		flow2.setAttribute(&apos;opacity&apos;, opacity2);
+		flow3.setAttribute(&apos;opacity&apos;, opacity3);
+		flow4.setAttribute(&apos;opacity&apos;, opacity4);
+		flow5.setAttribute(&apos;opacity&apos;, opacity5);
+		flow6.setAttribute(&apos;opacity&apos;, opacity6);
+		setInterval(opacity, 50);
+				
+		function opacity()
+		{ 
+		
+			opacity3 += 0.05;
+			opacity4 += 0.05;
+			if (opacity3 &gt; 0.25 || opacity2 != 0){
+				opacity2 += 0.05;
+				opacity5 += 0.05;
+			}
+			if (opacity2 &gt; 0.25 || opacity1 != 0){
+				opacity1 += 0.05;
+				opacity6 += 0.05;
+			}
+			flow1.setAttribute(&apos;opacity&apos;, opacity1);
+			flow2.setAttribute(&apos;opacity&apos;, opacity2);
+			flow3.setAttribute(&apos;opacity&apos;, opacity3);
+			flow4.setAttribute(&apos;opacity&apos;, opacity4);
+			flow5.setAttribute(&apos;opacity&apos;, opacity5);
+			flow6.setAttribute(&apos;opacity&apos;, opacity6);
+			if (opacity1 == 1 || opacity1 &gt; 1) {
+				if (opacity2 == 1 || opacity2 &gt; 1){
+					if (opacity3 == 1 || opacity3 &gt; 1){
+						opacity1=0;
+						opacity2=0;		
+						opacity3=0;
+						opacity4=0;
+						opacity5=0;
+						opacity6=0;
+					}
+				}							
+			}	
+			}
+		</script>
+</g>
+</svg>

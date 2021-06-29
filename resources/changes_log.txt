@@ -1,0 +1,27 @@
+backIcon.svg
+cancelIcon.svg
+home.svg
+okIcon.svg
+
+authorizationView
+userAuthorizing.svg
+userError.svg
+userNOk.svg
+userOk.svg
+
+carConnectionView
+carNotConnected.svg
+checkingConnection.svg
+connectCar.svg
+
+generalView
+left.svg
+leftRightSlideAnimation.svg
+leftSlideAnimation.svg
+playIconButton.svg
+right.svg
+rightSlideAnimation.svg
+screensaver.svg
+
+languagesView
+flagPL.svg (rotate 180)
