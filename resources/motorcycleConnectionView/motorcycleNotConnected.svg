@@ -37,20 +37,20 @@
 					var y = 40;
 					var x = startX;
 					var connector = document.getElementById(&quot;connector&quot;);
-					connector.setAttribute(&apos;fill&apos;, &apos;#666666&apos;);
+					connector.setAttribute(&apos;fill&apos;, &apos;#88BCE1&apos;);
 					setInterval(move, 50);
-					
+
 					function move()
-					{ 
+					{
 						if(x &gt; endX){
 							x = x-1;
 							connector.setAttribute(&apos;transform&apos;, &apos;translate(&apos;+ x +&apos;,&apos; + y +&apos;)&apos;);
-							connector.setAttribute(&apos;fill&apos;, &apos;#666666&apos;);
+							connector.setAttribute(&apos;fill&apos;, &apos;#88BCE1&apos;);
 						}
 						else{
 							if (x &gt; endX*0.2){
 								x = x-1;
-								connector.setAttribute(&apos;fill&apos;, &apos;#74A528&apos;);
+								connector.setAttribute(&apos;fill&apos;, &apos;#800000&apos;);
 							}
 							else{
 								x = startX;
